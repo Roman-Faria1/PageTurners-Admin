@@ -1,6 +1,6 @@
 // export const BASE_URL = "http://localhost:3000/api";
 // export const BASE_URL = "https://bookrevews-back-end.onrender.com/api";
-export const BASE_URL = "https://pageturners-backend.onrender.com/";
+export const BASE_URL = "https://pageturners-backend.onrender.com/api";
 
 // Fetch All Books
 export const fetchAllBooks = async () => {
